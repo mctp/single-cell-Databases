@@ -23,7 +23,17 @@ Databases overview:
 | 11  | Organoid                             | 2019 | 31619793| 547       | [Link](https://bioinf.eva.mpg.de/shiny/sample-apps/scApeX/)                    | Available     | 1                           |                             | 43498           | Primary     |
 | 12  | First-trimester Developing Human Brain| 2023 | 37824650| 30        | [Link](https://hdca-sweden.scilifelab.se/tissues-overview/brain/)              | Available     | 1                           | 26                          | 1665937         | Primary     |
 | 13  | HCA Bone Marrow                      | 2018 | 30243574| 179       | [Link](https://www.altanalyze.org/ICGS/HCA/splash.php)                         | Available     | 1                           | 8                           | 100000          | Primary     |
-
+| 14  | Human Cell Landscape               | 2020 | 32214235 | 750 | [Link](https://bis.zju.edu.cn/HCL/)                                   | Available    | 1     | 63        | 700,000    | Primary  |
+| 15  | Descartes                          | 2021 | 33184181 | 486 | [Link](https://descartes.brotmanbaty.org/)                            | Available    | 1     | 15        | 4,000,000  | Primary  |
+| 16  | Tabula Sapiens                     | 2022 | 35549404 | 417 | [Link](https://tabula-sapiens-portal.ds.czbiohub.org/)                | Available    | 1     | 15        | 500,000    | Primary  |
+| 17  | GTEXsinglecellatlas               | 2022 | 35549429 | 201 | [Link](https://www.gtexportal.org/home/singleCellOverviewPage)        | Available    | 1     | 16        | 209,126    | Primary  |
+| 18  | Kidney Single-Cell Atlas           | 2020 | 32978267 | 121 | [Link](http://www.ruuo-kidney-gene-atlas.com/)                        | Available    | 1     | 4         | 17,136     | Primary  |
+| 19  | Kidney Tissue Atlas                | 2023 | 37468583 | 161 | [Link](https://cellxgene.cziscience.com/collections/bcb61471-2a44-4d00-a0af-ff085512674c) | Available | 1     | 93        | 584,843    | Primary  |
+| 20  | Covid19 Cell Atlas                 | 2021 | 33915569 | 586 | [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP1052/covid-19-lung-autopsy-samples#study-summary) | Available | 1 | 32        | 106,792    | Primary  |
+| 21  | Lung Atlas of Lethal COVID-19      | 2022 | 33915568 | 458 | [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP1219/columbia-university-nyp-covid-19-lung-atlas) | Available | 1 | 19        | 116,314    | Primary  |
+| 22  | ddnetbio                           | 2019 | 31768052 | 636 | [Link](http://adsn.ddnetbio.com/)                                      | Available    | 1     | 6         | 13,214     | Primary  |
+| 23  | Breast Cancer single-cell Atlas    | 2022 | 35361816 | 65  | [Link](https://bcatlas.tigem.it/tigem/dibernardo/AIRC_atlas_32_ccls/?ds=Atlas_32_ccls) | Available | 1     | 32        | 35,276     | Primary  |
+| 24  | Single Cell Breast Cancer          | 2023 | 37158690 | 4   | [Link](https://mikaqiao.shinyapps.io/scBC/)                            | Available    | 1     | 21        | 117,958    | Primary  |
 
 
 
