@@ -39,4 +39,36 @@ Databases overview:
 
 ## Aggregated single-cell databases
 
+| #   | Database                             | Year | PMID    | Citations | URL                                                                            | Web Interface | Number of studies / dataset | Number of donors / samples | Number of cells | Data source |
+|-----|--------------------------------------|------|---------|-----------|--------------------------------------------------------------------------------|---------------|-----------------------------|-----------------------------|-----------------|-------------|
+| #  | Name                       | Year | PubMed ID | Citations | URL                                                                                                  | Availability    | Studies | Samples | Cells     | Type       |
+|----|----------------------------|------|-----------|-----------|------------------------------------------------------------------------------------------------------|-----------------|---------|---------|-----------|------------|
+| 25 | GEO/SRA                    | 2013 | 23193258  | 8811      | [link](https://www.ncbi.nlm.nih.gov/geo/)                                                            | Available       | 112585  |         |           | Aggregated |
+| 26 | scRNA-seq package          | 2016 | NA        | 0         | [link](https://bioconductor.org/packages/release/data/experiment/vignettes/scRNAseq/inst/doc/scRNAseq.html) | Not available   | 61      |         | 1641896   | Aggregated |
+| 27 | Human Cell Atlas           | 2017 | 29206104  | 1942      | [link](https://data.humancellatlas.org/)                                                             | Available       | 437     | 8600    | 58500000  | Aggregated |
+| 28 | scRNASeqDB                 | 2017 | 29206167  | 91        | [link](https://bioinfo.uth.edu/scrnaseqdb/)                                                          | Available       | 38      | 13440   | 13440     | Aggregated |
+| 29 | Single Cell Expression Atlas| 2018 | 31665515  | 475       | [link](https://www.ebi.ac.uk/gxa/sc/home)                                                            | Available       | 147     |         | 10505726  | Aggregated |
+| 30 | SCPortalen                 | 2018 | 29045713  | 51        | [link](http://single-cell.clst.riken.jp/)                                                            | Available       | 23      |         | 20761     | Aggregated |
+| 31 | SCDevDB                    | 2019 | 31611909  | 20        | [link](https://scdevdb.deepomics.org)                                                                | Available       | 38      |         | 13440     | Aggregated |
+| 32 | PanglaoDB                  | 2019 | 30951143  | 867       | [link](https://panglaodb.se/)                                                                        | Available       | 305     |         | 1126580   | Aggregated |
+| 33 | HuBMAP                     | 2019 | 31597973  | 368       | [link](https://portal.hubmapconsortium.org/)                                                         | Available       | 2362    | 1843    |           | Aggregated |
+| 34 | Curated Database           | 2020 | 33247933  | 174       | [link](https://docs.google.com/spreadsheets/d/1En7-UV0k0laDiIfjFkdn7dggyR7jIk3WH8QgXaMOZF0/edit#gid=0) | Not available   | 1946    |         | 134393568 | Aggregated |
+| 35 | Human Protein Atlas        | 2021 | 34321199  | 749       | [link](https://www.proteinatlas.org/humanproteome/single+cell+type)                                  | Available       | 14      |         | 174271    | Aggregated |
+| 36 | Single Cell Portal         | 2021 | 37502904  | 8         | [link](https://singlecell.broadinstitute.org/single_cell)                                            | Available       | 654     |         | 40699488  | Aggregated |
+| 37 | UCSC Cell Browser          | 2021 | 34244710  | 127       | [link](https://cells.ucsc.edu/?)                                                                     | Available       | 378     |         |           | Aggregated |
+| 38 | gEAR                       | 2021 | 34172972  | 112       | [link](https://www.umgear.org/)                                                                      | Available       | 1180    |         |           | Aggregated |
+| 39 | DISCO                      | 2022 | 34791375  | 55        | [link](https://www.immunesinglecell.org/)                                                            | Available       | 1077    | 13998   | 61280618  | Aggregated |
+| 40 | singleCellBase             | 2023 | 37730627  | 3         | [link](http://cloud.capitalbiotech.com/SingleCellBase/)                                              | Available       | 464     |         | 9158      | Aggregated |
+| 41 | SingleScan                 | 2023 | 38062357  | 0         | [link](http://cailab.labshare.cn/SingleScan)                                                         | Available       | 109     |         | 3077622   | Aggregated |
+| 42 | AgeAnno                    | 2023 | 36200838  | 14        | [link](https://relab.xidian.edu.cn/AgeAnno/#/)                                                       | Available       |         | 226     | 1298996   | Aggregated |
+| 43 | scBrainMap                 | 2023 | 37195696  | 2         | [link](https://scbrainmap.sysneuro.net/)                                                             | Available       | 715     |         | 6577222   | Aggregated |
+| 44 | Human Transcriptome Cell Atlas| 2023 | 36130266  | 14        | [link](https://www.htcatlas.org/)                                                                    | Available       |         | 19      | 24652615  | Aggregated |
+| 45 | Human Universal Single Cell Hub| 2023 | 36318258  | 10        | [link](http://husch.comp-genomics.org/#/search)                                                      | Available       | 185     |         | 300000    | Aggregated |
+| 46 | Cellxgene                  | 2023 | NA        | 54        | [link](https://cellxgene.cziscience.com/)                                                            | Available       | 1284    |         | 85100000  | Aggregated |
+| 47 | SCInter                    | 2023 | 38125297  | 0         | [link](https://bio.liclab.net/SCInter/index.php)                                                     | Available       | 115     | 1016    |           | Aggregated |
+| 48 | OrganoidDB                 | 2023 | 36271792  | 4         | [link](http://www.inbirg.com/organoid_db/)                                                           | Available       | 145     |         | 670000    | Aggregated |
+| 49 | SC2sepsis                  | 2022 | 35980286  | 1         | [link](http://www.rjh-sc2sepsis.com/index)                                                           | Available       | 71      |         | 232226    | Aggregated |
+| 50 | SC2disease                 | 2021 | 33010177  | 67        | [link](http://easybioai.com/sc2disease/)                                                             | Available       |         |         | 946481    | Aggregated |
+
+
 To contribute to this resource please fill out this Google Form: https://forms.gle/JnqxyQiws1nuRA8n9
