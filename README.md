@@ -41,8 +41,6 @@ Databases overview:
 
 | #   | Database                             | Year | PMID    | Citations | URL                                                                            | Web Interface | Number of studies / dataset | Number of donors / samples | Number of cells | Data source |
 |-----|--------------------------------------|------|---------|-----------|--------------------------------------------------------------------------------|---------------|-----------------------------|-----------------------------|-----------------|-------------|
-| #  | Name                       | Year | PubMed ID | Citations | URL                                                                                                  | Availability    | Studies | Samples | Cells     | Type       |
-|----|----------------------------|------|-----------|-----------|------------------------------------------------------------------------------------------------------|-----------------|---------|---------|-----------|------------|
 | 25 | GEO/SRA                    | 2013 | 23193258  | 8811      | [link](https://www.ncbi.nlm.nih.gov/geo/)                                                            | Available       | 112585  |         |           | Aggregated |
 | 26 | scRNA-seq package          | 2016 | NA        | 0         | [link](https://bioconductor.org/packages/release/data/experiment/vignettes/scRNAseq/inst/doc/scRNAseq.html) | Not available   | 61      |         | 1641896   | Aggregated |
 | 27 | Human Cell Atlas           | 2017 | 29206104  | 1942      | [link](https://data.humancellatlas.org/)                                                             | Available       | 437     | 8600    | 58500000  | Aggregated |
