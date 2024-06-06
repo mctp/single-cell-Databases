@@ -4,7 +4,7 @@ The preprint associated with this table can be viewed here: https://arxiv.org/ab
 
 Link to detailed Single-cell RNA-seq database table can be found here: https://docs.google.com/spreadsheets/d/1fJuOeglSEjBIJbPOSONIX-zleyIaLn2ukT6DCxOn2k4/edit#gid=0
 
-Databases overview:
+Databases brief overview:
 
 ## Primary single-cell databases
 
