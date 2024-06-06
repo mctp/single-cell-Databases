@@ -67,6 +67,31 @@ Databases brief overview:
 | 48 | OrganoidDB                 | 2023 | 36271792  | 4         | [link](http://www.inbirg.com/organoid_db/)                                                           | Available       | 145     |         | 670000    | Aggregated |
 | 49 | SC2sepsis                  | 2022 | 35980286  | 1         | [link](http://www.rjh-sc2sepsis.com/index)                                                           | Available       | 71      |         | 232226    | Aggregated |
 | 50 | SC2disease                 | 2021 | 33010177  | 67        | [link](http://easybioai.com/sc2disease/)                                                             | Available       |         |         | 946481    | Aggregated |
+| 51 | Human Lung Cell Atlas       | 2023 | 37291214  | 130       | [Link](https://cellxgene.cziscience.com/collections/6f6d381a-7701-4781-935c-db10d30de293) | Available     | 49      | 486     | 2,400,000 | Aggregated |
+| 52 | Covid19cellatlas            | 2020 | 32327758  | 2678      | [Link](https://www.covid19cellatlas.org/)                           | Available     |         | 15      |         | Aggregated |
+| 53 | SCovid                      | 2022 | 34634820  | 30        | [Link](http://bio-annotation.cn/scovid)                             | Not available | 21      |         | 1042227 | Aggregated |
+| 54 | scREAD                      | 2020 | 33241205  | 74        | [Link](https://bmbls.bmi.osumc.edu/scread/)                         | Available     | 73      |         | 713,640  | Aggregated |
+| 55 | ssREAD                      | 2023 | 37745592  | 0         | [Link](https://bmblx.bmi.osumc.edu/ssread/)                         | Available     | 35      |         | 2,572,355 | Aggregated |
+| 56 | SCAD-Brain                  | 2023 | 37251804  | 4         | [Link](https://www.bioinform.cn/SCAD/)                              | Available     | 21      | 359     | 1,564,825 | Aggregated |
+| 57 | JingleBells                 | 2017 | 28416714  | 0         | [Link](https://jinglebells.bgu.ac.il/)                              | Available     | 302     |         |         | Aggregated |
+| 58 | EndoDB                      | 2019 | 30357379  | 78        | [Link](https://endotheliomics.shinyapps.io/endodb/)                 | Available     | 360     |         | 5847     | Aggregated |
+| 59 | huARdb                      | 2022 | 34606616  | 9         | [Link](https://huarc.net/v2/)                                       | Available     | 215     |         | 444794   | Aggregated |
+| 60 | ABC portal                  | 2023 | 35920330  | 9         | [Link](http://abc.sklehabc.com/#/home)                              | Available     | 198     |         | 3878881  | Aggregated |
+| 61 | CancerSEA                   | 2019 | 30329142  | 505       | [Link](http://biocc.hrbmu.edu.cn/CancerSEA/)                        | Available     | 74      |         | 93,475   | Aggregated |
+| 62 | scTIME                      | 2021 | 34117085  | 33        | [Link](http://scTIME.sklehabc.com)                                  | Available     | 49      |         | 196273   | Aggregated |
+| 63 | TISCH                       | 2021 | 33179754  | 542       | [Link](http://tisch1.comp-genomics.org/)                            | Available     | 76      |         | 2,045,746 | Aggregated |
+| 64 | Compendium papers1          | 2021 | 34914499  | 485       | [Link](http://cancer-pku.cn:3838/PanC_T/)                           | Available     | 37      | 316     | 397,810  | Aggregated |
+| 65 | Tumor Immune Cell Atlas     | 2021 | 34548323  | 99        | [Link](https://singlecellgenomics-cnag-crg.shinyapps.io/TICA/)      | Available     | 16      | 217     | 500,000  | Aggregated |
+| 66 | TMExplorer                  | 2022 | 36084081  | 9         | [Link](https://figshare.com/projects/TMExplorer_A_Tumour_Microenvironment_Single-cell_RNAseq_Database_and_Search_Tool/101471) | Available     | 48      |         | 1438299  | Aggregated |
+| 67 | cancerSCEM                  | 2022 | 34643725  | 52        | [Link](https://ngdc.cncb.ac.cn/cancerscem)                          | Available     | 28      |         | 638,341  | Aggregated |
+| 68 | Compendium papers2          | 2022 | 36333338  | 129       | [Link](https://gist-fgl.github.io/sc-caf-atlas/)                    | Available     | 12      | 226     | 855,271  | Aggregated |
+| 69 | IMMUcanDB                   | 2023 | 36459564  | 12        | [Link](https://immucanscdb.vital-it.ch/)                            | Available     | 144     |         | 4474385  | Aggregated |
+| 70 | TISCH2                      | 2023 | 36321662  | 82        | [Link](http://tisch.comp-genomics.org/)                             | Available     | 190     |         | 6,297,320 | Aggregated |
+| 71 | Curated Cancer Atlas        | 2023 | 37258682  | 51        | [Link](https://www.weizmann.ac.il/sites/3CA/)                       | Available     | 77      |         | 2,591,545 | Aggregated |
+| 72 | Pan-cancer T cell atlas     | 2023 | 37248301  | 54        | [Link](https://singlecell.mdanderson.org/)                          | Available     | 27      | 670     | 656,742  | Aggregated |
+| 73 | SCAR                        | 2024 | 37739405  | 2         | [Link](http://8.142.154.29/SCAR2023/)                               | Available     | 190     |         | 11301352 | Aggregated |
+| 74 | scRNA-seq-ICB-cohorts       | 2024 | 38328153  | 0         | [Link](https://zenodo.org/records/10407126)                         | Available     | 8       |         | 90270    | Aggregated |
+
 
 
 To contribute to this resource please fill out this Google Form: https://forms.gle/JnqxyQiws1nuRA8n9
