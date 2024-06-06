@@ -94,4 +94,4 @@ Databases brief overview:
 
 
 
-To contribute to this resource please fill out this Google Form: https://forms.gle/JnqxyQiws1nuRA8n9
+## To contribute to this resource please fill out this Google Form: https://forms.gle/JnqxyQiws1nuRA8n9
