@@ -1,6 +1,6 @@
 # single-cell-Databases
 
-The preprint associated with this table can be viewed here: https://arxiv.org/abs/2404.10545
+The paper associated with this table can be viewed here: [https://arxiv.org/abs/2404.10545](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2024.1417428/full)
 
 Link to detailed Single-cell RNA-seq database table can be found here: https://docs.google.com/spreadsheets/d/1fJuOeglSEjBIJbPOSONIX-zleyIaLn2ukT6DCxOn2k4/edit#gid=0
 
